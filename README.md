@@ -1,3 +1,5 @@
+<img width="100%" src="welcome-image.png"/>
+
 # Hey!
 
 ## About Me 
