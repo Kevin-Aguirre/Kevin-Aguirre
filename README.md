@@ -3,7 +3,7 @@
 # Hey!
 
 ## About Me 
-Hi! My name is Kevin, I'm a second-year Computer Science B.S. major studying at New York University, Tandon School of Engineering. I'm working towards becoming a Full-Stack Developer. My interests are Web Development, calisthenics, cooking, and playing video games.
+Hi! My name is Kevin, I'm a second-year Computer Science B.S. major studying at New York University, Tandon School of Engineering. I'm working towards becoming a Full-Stack Developer. My interests are web development, calisthenics, cooking, and playing video games.
 
 ## Languages & Technologies 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center;">
