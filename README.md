@@ -24,7 +24,9 @@ Hi! My name is Kevin, I'm a second-year Computer Science B.S. major studying at 
 
 
 ## How to Reach Me 
-You can email me at: kaa9659@nyu.edu 
+Feel free to reach out!
+E-Mail: kaa9659@nyu.edu 
+LinkedIn: https://www.linkedin.com/in/kevin-a-aguirre/
 <!--
 **Kevin-Aguirre/Kevin-Aguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
