@@ -2,8 +2,8 @@
 
 # Hey!
 
-## About Me 
-Hi! My name is Kevin, I'm a second-year Computer Science B.S. major studying at New York University, Tandon School of Engineering. I'm working towards becoming a Full-Stack Developer. My interests are web development, calisthenics, cooking, and playing video games.
+## About Me
+Hi! My name is Kevin Aguirre. I'm currently a Junior at New York University, Tandon School of Engineering studying Computer Science. I'm passionate about Software Development, Data Science, and Cybersecurity. I'm currently looking for Software Development internships for Fall 2024, Spring 2025, and Summer 2025. On my spare time, I like to work on personal projects, do calisthenics, make Arduino circuits, and play video games.
 
 ## Languages & Technologies 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center;">
