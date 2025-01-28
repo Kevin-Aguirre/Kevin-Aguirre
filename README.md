@@ -1,9 +1,7 @@
-<img width="100%" src="welcome-image.png"/>
-
 # Hey!
 
 ## About Me
-Hi! My name is Kevin Aguirre. I'm currently a Junior at New York University, Tandon School of Engineering studying Computer Science. I'm passionate about Software Development, Data Science, and Cybersecurity. I'm currently looking for Software Development internships for Fall 2024, Spring 2025, and Summer 2025. On my spare time, I like to work on personal projects, do calisthenics, make Arduino circuits, and play video games.
+Hi. I'm currently a Junior at New York University, Tandon School of Engineering studying Computer Science. I'm interested in Software Development and Cybersecurity. I'm currently looking for a Software Development internships for Fall 2025/Spring 2026 and Summer Summer 2026. On my spare time, I like to work on personal projects, go on runs, hit the gym, read books, and play video games.
 
 ## Languages & Technologies 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center;">
