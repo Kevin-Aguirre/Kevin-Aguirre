@@ -1,7 +1,7 @@
 # Hey!
 
 ## About Me
-Hi. I'm currently a Junior at New York University, Tandon School of Engineering studying Computer Science. I'm interested in Software Development and Cybersecurity. I'm currently looking for a Software Development internships for Fall 2025/Spring 2026 and Summer Summer 2026. On my spare time, I like to work on personal projects, go on runs, hit the gym, read books, and play video games.
+Hey! I'm a Senior at New York University, Tandon School of Engineering pursuing the BS/MS track in Computer Science. I'm interested in Software Development and Cybersecurity. I'm currently looking for full time Software Development roles for Summer 2026. On my spare time, I like to work on personal projects, go on runs, lift weights, go rockclimbing,  read books, and play video games.
 
 ## Languages & Technologies 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center;">
@@ -25,18 +25,5 @@ Hi. I'm currently a Junior at New York University, Tandon School of Engineering 
 Feel free to reach out!
 E-Mail: kaa9659@nyu.edu 
 LinkedIn: https://www.linkedin.com/in/kevin-a-aguirre/
-<!--
-**Kevin-Aguirre/Kevin-Aguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![](https://komarev.com/ghpvc/?username=Kevin-Aguirre&color=red&style=flat-square)
