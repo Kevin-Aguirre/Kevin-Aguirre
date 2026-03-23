@@ -1,7 +1,7 @@
 # Hey!
 
 ## About Me
-Hey! I'm a Senior at New York University, Tandon School of Engineering pursuing the BS/MS track in Computer Science. I'm interested in Software Development and Cybersecurity. I'm currently looking for full time Software Development roles for Summer 2026. On my spare time, I like to work on personal projects, go on runs, lift weights, go rockclimbing,  read books, and play video games.
+Hey! I'm a Senior at New York University, Tandon School of Engineering pursuing the BS track in Computer Science. I'm interested in Software Development and Cybersecurity. I'm currently looking for full time Software Development roles for Summer 2026. On my spare time, I like to work on personal projects, go on runs, lift weights, go rockclimbing,  read books, and play video games.
 
 ## Languages & Technologies 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center;">
