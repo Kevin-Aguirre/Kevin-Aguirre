@@ -1,29 +1,41 @@
-# Hey!
+# Hi, I'm Kevin Aguirre 👋
 
-## About Me
-Hey! I'm a Senior at New York University, Tandon School of Engineering pursuing the BS track in Computer Science. I'm interested in Software Development and Cybersecurity. I'm currently looking for full time Software Development roles for Summer 2026. On my spare time, I like to work on personal projects, go on runs, lift weights, go rockclimbing, read books, and play video games.
+**Computer Science @ NYU Tandon (Class of 2026)** *Full-Stack Software Developer | Cybersecurity Enthusiast*
 
-## Languages & Technologies 
-<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center;">
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>  
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
-</div>
+I am a Senior at New York University focusing on scalable software development and security. I am currently seeking full-time **Software Engineering** roles starting Summer 2026.
 
+---
 
-## How to Reach Me 
-Feel free to reach out!
-E-Mail: kaa9659@nyu.edu 
-LinkedIn: https://www.linkedin.com/in/kevin-a-aguirre/
+### 🛠️ Tech Stack
 
-![](https://komarev.com/ghpvc/?username=Kevin-Aguirre&color=red&style=flat-square)
+**Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Frameworks & Databases**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Infrastructure**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🚀 Featured Projects
+* **[Project Name](link)** – A brief 1-sentence description of what this project does and the tech used.
+* **[Project Name](link)** – Focus on a problem you solved (e.g., "Optimized database queries by 30%").
+
+---
+
+### 📫 Connect with me
+* 💼 **LinkedIn:** [kevin-a-aguirre](https://www.linkedin.com/in/kevin-a-aguirre/)
+* 📧 **Email:** [kaa9659@nyu.edu](mailto:kaa9659@nyu.edu)
+* 🏃 **Outside of coding:** I enjoy rock climbing, lifting, and reading.
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kevin-Aguirre&color=red&style=flat-square)
