@@ -3,4 +3,5 @@ I am a Senior at New York University focusing on software development and distri
 
 
 <!-- For analytics purposes ;) -->
+<!-- Can see views here https://komarev.com/ghpvc/?username=Kevin-Aguirre -->
 <img src="https://komarev.com/ghpvc/?username=Kevin-Aguirre&color=00000000" width="1" height="1" />
